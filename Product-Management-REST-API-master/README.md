@@ -29,7 +29,7 @@ This repository features a Spring Boot service for managing a digital library. I
     - Interactive API: http://localhost:8080/swagger-ui.html
     - Live Database: http://localhost:8080/console/
 
-## 📡 API Endpoints
+## 📡 API Endpoints.
 
 Base Path: `/api/v1/product`
 

@@ -5,10 +5,10 @@ This repository features a Spring Boot service for managing a digital library. I
 ## 📸 System Preview
 
 ### API Documentation (Swagger)
-![API Documentation](assets/2.jpeg)
+![API Documentation](Product-Management-REST-API-master/assets/2.jpeg)
 
 ### Database (H2 Console)
-![Database Console](assets/1.jpeg)
+![Database Console](Product-Management-REST-API-master/assets/1.jpeg)
 
 ## 🚀 Key Workflows
 
